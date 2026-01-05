@@ -17,4 +17,5 @@ Ejecuta inference_classifier_plus.py para empezar.
 </p>
 
 ## MEMORIA:
-👉 [Memoria del proyecto](docs/memoria.pdf)
+👉 [Memoria del proyecto](./Imagen-Memoria.pdf)
+
