@@ -1,0 +1,6 @@
+opencv-python==4.11.0
+mediapipe==0.10.21
+scikit-learn==1.6.1
+soundfile==0.13.1
+gradio_client==1.10.2
+sounddevice==0.5.2
