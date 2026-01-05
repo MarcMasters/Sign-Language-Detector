@@ -13,4 +13,8 @@ Ejecuta inference_classifier_plus.py para empezar.
  ## Diccionario de lenguaje de signos americano
 <p align="center">
   <img src="asl.png" alt="Diccionario de lenguaje de signos americano" width="400"/>
+
 </p>
+
+## MEMORIA:
+👉 [Memoria del proyecto](docs/memoria.pdf)
